@@ -1,15 +1,15 @@
 # Tunr-App-BackEnd
 
-URLs
+API URLs
 
-root = /api
+root = https://tunr4.herokuapp.com/api/
 
-all songs = /api/songs
+all songs = https://tunr4.herokuapp.com/api/songs/
 
-get song by id = /api/songs/:id
+get song by id = https://tunr4.herokuapp.com/api/songs/:id
 
-update songby id = /api/songs/:id
+update songby id = https://tunr4.herokuapp.com/api/songs/:id
 
-delete song by id = /api/songs/:id
+delete song by id = https://tunr4.herokuapp.com/api/songs/:id
 
-create a new song = /api/songs
+create a new song = https://tunr4.herokuapp.com/api/songs/
