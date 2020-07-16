@@ -1,7 +1,7 @@
 {
-  "name": "Tunr-App-BackEnd",
+  "name": "tunr-app-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "URLs",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -25,5 +25,10 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "mongoose": "^5.9.24"
-  }
+  },
+  "engines": {
+    "node": ">= 6.9.4",
+    "npm": ">= 4.4.0"
+  },
+  "devDependencies": {}
 }
