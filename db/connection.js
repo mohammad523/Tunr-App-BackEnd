@@ -5,7 +5,7 @@ let MONGODB_URI = ''
 if (process.env.NODE_ENV === 'production') {
     MONGODB_URI = process.env.DB_URL
 } else {
-    let MONGODB_URI = 'mongodb://127.0.0.1:27017/song_db'
+    MONGODB_URI = 'mongodb://localhost/song_db'
 }
 
 
